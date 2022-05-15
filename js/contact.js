@@ -1,5 +1,5 @@
 let scriptURL = 'https://script.google.com/macros/s/AKfycbwD5yKf6VP-r33C3B51m_yZqbdyuO4c9V4t79nowPmNcqvpnwn7SfVr6vAnn_MQC6zx/exec';
-let jsonURL = 'https://api.ipregistry.co?key=9jkdkv7h8nha2wa2';
+let jsonURL = 'https://api.ipregistry.co?key=2xykp08i619n3v46';
 
 
 $(document).ready(function () {
